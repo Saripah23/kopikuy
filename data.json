@@ -1,0 +1,122 @@
+{
+    "Kopi": [
+        {
+            "nama": "Cappuccino",
+            "foto": "https://noir.web.id/wp-content/uploads/2022/04/jual-cappucino-terdekat.jpg.webp",
+            "size": "150 ml",
+            "harga": "65.000",
+            "link": "#"
+        },
+        {
+            "nama": "Espresso",
+            "foto": "https://www.beach-garden.com/wp-content/uploads/2021/07/espresso.jpeg",
+            "size": "50 ml",
+            "harga": "45.000",
+            "link": "#"
+        },
+        {
+            "nama": "Caramel Frappucino",
+            "foto": "https://freshbeanbakery.com/wp-content/uploads/2023/06/CaramelFrap-Photo3-683x1024.jpg",
+            "size": "250 ml",
+            "harga": "70.000",
+            "link": "#"
+        },
+        {
+            "nama": "Latte",
+            "foto": "https://cdn.pixabay.com/photo/2022/04/15/09/14/coffee-7133980_640.jpg",
+            "size": "150 ml",
+            "harga": "50.000",
+            "link": "#"
+        }
+    ],
+    "Teh": [
+        {
+            "nama": "Green tea",
+            "foto": "https://www.acouplecooks.com/wp-content/uploads/2021/09/How-to-Make-Matcha-013s.jpg",
+            "size": "150 ml",
+            "harga": "35.000",
+            "link": "#"
+        },
+        {
+            "nama": "Lemon tea",
+            "foto": "https://cdn1-production-images-kly.akamaized.net/H8Z5NeUveOqYPPVWaLYszUrRzsQ=/0x413:5760x3659/1200x675/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3116064/original/054103900_1588222999-shutterstock_420898555.jpg",
+            "size": "150 ml",
+            "harga": "15.000",
+            "link": "#"
+        },
+        {
+            "nama": "Teh Rosella",
+            "foto": "https://res.cloudinary.com/dk0z4ums3/image/upload/v1499655805/attached_image/benefits-of-rosella-tea.jpg",
+            "size": "200 ml",
+            "harga": "20.000",
+            "link": "#"
+        },
+        {
+            "nama": "Teh telang",
+            "foto": "https://kurio-img.kurioapps.com/21/08/05/9fb690cb-b453-48bd-8fbe-75f45515a8b0.jpe",
+            "size": "200 ml",
+            "harga": "15.000",
+            "link": "#"
+        }
+    ],
+    "Camilan": [
+        {
+            "nama": "Keripik Kentang",
+            "foto": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2023/02/18/keripik-kentangjpeg-20230218031111.jpeg",
+            "size": "250 gram",
+            "harga": "25.000",
+            "link": "#"
+        },
+        {
+            "nama": "Sate Taichan",
+            "foto": "https://asset.kompas.com/crops/Mx7cE4bnIstwWi0ep_7GKE3_cLQ=/3x2:794x397/750x500/data/photo/2017/08/11/807410757.jpg",
+            "size": "10 Pcs",
+            "harga": "25.000",
+            "link": "#"
+        },
+        {
+            "nama": "Tempe Mendoan",
+            "foto": "https://o-cdn-cas.sirclocdn.com/parenting/images/Resep_Tempe_Mendoan.width-800.format-webp.webp",
+            "size": "5 Pcs",
+            "harga": "25.000",
+            "link": "#"
+        },
+        {
+            "nama": "Takoyaki",
+            "foto": "https://8ttomarket.com/cdn/shop/articles/takoyaki_recipe.jpg?v=1680530952",
+            "size": "10 Pcs",
+            "harga": "25.000",
+            "link": "#"
+        }
+    ],
+    "Ice Cream": [
+        {
+            "nama": "Mint Chocolate",
+            "foto": "https://img.kurio.network/bzyeEYEw1s2dMIct-Dfo1QLolTU=/320x320/filters:quality(80)/https://kurio-img.kurioapps.com/20/06/29/64c236a4-dbf5-4c7c-ba5b-2e735525f353.jpg",
+            "size": "2 scoop",
+            "harga": "22.000",
+            "link": "#"
+        },
+        {
+            "nama": "Matcha",
+            "foto": "https://www.infobdg.com/v2/wp-content/uploads/2014/01/7l.jpg",
+            "size": "2 scoop",
+            "harga": "23.000",
+            "link": "#"
+        },
+        {
+            "nama": "Tiramisu",
+            "foto": "https://www.herworld.co.id/gallery/teaser/Cara-Membuat-Es-Krim-Tiramisu_41_20170601010000.jpg",
+            "size": "2 scoop",
+            "harga": "25.000",
+            "link": "#"
+        },
+        {
+            "nama": "Chocolate",
+            "foto": "https://www.tokomesin.com/wp-content/uploads/2016/02/es-krim-coklat-tokomesin.png",
+            "size": "2 scoop",
+            "harga": "20.000",
+            "link": "#"
+        }
+    ]
+}
