@@ -19,4 +19,4 @@ Berikut adalah contoh tampilan dari website Kopi Kuy:
 ## Cara Menggunakan
 1. Clone repositori ini ke lokal Anda:
    ```bash
-   git clone https://github.com/rikisaja/kopikuy20240809.git
+   git clone https://github.com/Saripah23/kopikuy.git
