@@ -1,30 +1,30 @@
 {
     "Kopi": [
         {
-            "nama": "Cappuccino",
             "foto": "https://noir.web.id/wp-content/uploads/2022/04/jual-cappucino-terdekat.jpg.webp",
-            "size": "150 ml",
+            "nama": "Cappuccino",
+            "size": "150 Ml",
             "harga": "65.000",
             "link": "#"
         },
         {
-            "nama": "Espresso",
             "foto": "https://www.beach-garden.com/wp-content/uploads/2021/07/espresso.jpeg",
-            "size": "50 ml",
+            "nama": "Espresso",
+            "size": "50 Ml",
             "harga": "45.000",
             "link": "#"
         },
         {
-            "nama": "Caramel Frappucino",
             "foto": "https://freshbeanbakery.com/wp-content/uploads/2023/06/CaramelFrap-Photo3-683x1024.jpg",
-            "size": "250 ml",
+            "nama": "Caramel Frappucino",
+            "size": "250 Ml",
             "harga": "70.000",
             "link": "#"
         },
         {
-            "nama": "Latte",
             "foto": "https://cdn.pixabay.com/photo/2022/04/15/09/14/coffee-7133980_640.jpg",
-            "size": "150 ml",
+            "nama": "Latte",
+            "size": "150 Ml",
             "harga": "50.000",
             "link": "#"
         }
@@ -52,7 +52,7 @@
             "link": "#"
         },
         {
-            "nama": "Teh telang",
+            "nama": "Teh Telang",
             "foto": "https://kurio-img.kurioapps.com/21/08/05/9fb690cb-b453-48bd-8fbe-75f45515a8b0.jpe",
             "size": "200 ml",
             "harga": "15.000",
@@ -89,7 +89,7 @@
             "link": "#"
         }
     ],
-    "Ice Cream": [
+    "Ice cream": [
         {
             "nama": "Mint Chocolate",
             "foto": "https://img.kurio.network/bzyeEYEw1s2dMIct-Dfo1QLolTU=/320x320/filters:quality(80)/https://kurio-img.kurioapps.com/20/06/29/64c236a4-dbf5-4c7c-ba5b-2e735525f353.jpg",
@@ -116,6 +116,36 @@
             "foto": "https://www.tokomesin.com/wp-content/uploads/2016/02/es-krim-coklat-tokomesin.png",
             "size": "2 scoop",
             "harga": "20.000",
+            "link": "#"
+        }
+    ],
+    "Kue": [
+        {
+            "nama": "Red velvet",
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-oD3GM7m--9FfYysZDuYJ8xxFbbUlphunDg&s",
+            "size": "1 slice",
+            "harga": "30.000",
+            "link": "#"
+        },
+        {
+            "nama": "Blueberry Cheese",
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOAukJMPtE5PHN9T5L6NXheh-XU83wywBj4w&s",
+            "size": "1 slice",
+            "harga": "35.000",
+            "link": "#"
+        },
+        {
+            "nama": "Strawberry",
+            "foto": "https://static.vecteezy.com/system/resources/previews/026/841/147/large_2x/slice-of-strawberry-cake-on-a-white-background-photo.jpeg",
+            "size": "1 slice",
+            "harga": "30.000",
+            "link": "#"
+        },
+        {
+            "nama": "Mocca",
+            "foto": "https://asset.kompas.com/crops/_ckHUK9Fxs1hoetGS8g40UPVBqg=/25x7:700x457/375x240/data/photo/2022/12/08/6391ce6524a2a.jpg",
+            "size": "2 scoop",
+            "harga": "33.000",
             "link": "#"
         }
     ]
