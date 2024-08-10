@@ -9,7 +9,7 @@ Selamat datang di repositori Kopi Kuy, sebuah website latihan untuk peserta prog
 Berikut adalah contoh tampilan dari website Kopi Kuy:
 
 ### Tampilan Navigasi dan Header
-![Tampilan Navigasi dan Header](images/header/header1.jpg)
+![Tampilan Navigasi dan Header](image.png)
 
 ## Tujuan Proyek
 - Mempelajari dasar-dasar HTML, CSS, dan JavaScript.
